@@ -1,0 +1,3 @@
+1. https://medium.com/areomoon/text-summarization-with-pretrained-bart-model-b961f3f0d8fb
+2. https://hackernoon.com/text-summarizer-using-deep-learning-made-easy-490880df6cd
+3. https://medium.com/hackernoon/multilayer-bidirectional-lstm-gru-for-text-summarization-made-easy-tutorial-4-a63db108b44f
